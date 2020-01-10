@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164511869729",
+    "firebase_url": "https://keu5-2490d.firebaseio.com",
+    "project_id": "keu5-2490d",
+    "storage_bucket": "keu5-2490d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164511869729:android:f9039c88166065cf83ac60",
+        "android_client_info": {
+          "package_name": "com.android.moex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164511869729-db3uf3f9o6psfhlbefa32idc23f0d6t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.moex",
+            "certificate_hash": "d55258ad1a8da0e93fa18510705e116dc8465ea1"
+          }
+        },
+        {
+          "client_id": "164511869729-nmu0eb9egpl6lp9u6jrj5fv6e67nj2uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8GaNYmJ4reUNxROpvCuqvg3qP79b7Dew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164511869729-nmu0eb9egpl6lp9u6jrj5fv6e67nj2uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
